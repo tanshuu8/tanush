@@ -10,26 +10,26 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
+  title2: "TANUSH",
   logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  nickname: "Tanshuu",
+  full_name: "Tanush Chandhra",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "https://drive.google.com/file/d/1hDE8CGAeZB1cjj71Ec98lZ-dYgRVOTS7/view?usp=drive_link",
+  mail: "tanushchandhra.vyogi@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/tanshuu8",
+  linkedin: " ",
+  gmail: "tanushchandhra.vyogi@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: " ",
+  instagram: " ",
 };
 
 const skills = {
@@ -322,30 +322,30 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Dalhousie University",
-      subtitle: "Masters in Applied Computer Science",
-      logo_path: "dal.png",
-      alt_name: "DAL",
-      duration: "2022 - 2023",
+      title: "Kakatiya institute of Technology and Science",
+      subtitle: "Bachelor of Technology in Computer Science",
+      logo_path: "kits.png",
+      alt_name: "KITS",
+      duration: "2023 - 2027",
       descriptions: [
         "⚡ Studied Advanced Software Development Concepts, Data Management & Warehousing",
         "⚡ Learn Advanced Topics in Cloud Computing, Cloud Architecture along with Serverless Computing",
         "⚡ Worked on projects on courses like Mobile Computing and Web Technologies.",
       ],
-      website_link: "https://www.dal.ca/",
+      website_link: "",
     },
     {
-      title: "SAL Engineering and Technical Institute",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "sal.png",
-      alt_name: "SETI",
-      duration: "2017 - 2021",
+      title: "Acumen Junior collage",
+      subtitle: "Intermediate",
+      logo_path: " acumen.png",
+      alt_name: "ACUMEN",
+      duration: "2021 - 2023",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: " ",
     },
   ],
 };
@@ -654,14 +654,14 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: " ",
 };
 
 // Contact Page
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "hrishi2.png",
+    profile_image_path: " ",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -669,7 +669,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try my best to write a blog about it.",
-    link: "https://medium.com/@hrishipatel99",
+    link: " ",
     avatar_image_path: "blogs_image.svg",
   },
 };
@@ -710,7 +710,7 @@ const projects = {
     },
     {
       name: "CineScope",
-      url: "https://github.com/Hrishi1999/CineScope",
+      url: " ",
       description: "An IMDB-like application.",
       languages: [
         {
@@ -753,7 +753,7 @@ const projects = {
     },
     {
       name: "RecipesAPI",
-      url: "https://rapidapi.com/Hrishi1999/api/recipesapi2",
+      url: " ",
       description: "Get recipes for hundreds and thousands of dishes",
       languages: [
         {
@@ -768,7 +768,7 @@ const projects = {
     },
     {
       name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      url: " ",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
@@ -819,7 +819,7 @@ const projects = {
     },
     {
       name: "Doorbell.io",
-      url: "https://github.com/Hrishi1999/Doorbell.io",
+      url: " ",
       description:
         "A sound-classifier webapp made with ReactJS + TensorflowJS.",
       languages: [
@@ -839,7 +839,7 @@ const projects = {
     },
     {
       name: "Video Summarization",
-      url: "https://github.com/Hrishi1999/Video-Summarization",
+      url: " ",
       description:
         "A video summarization webapp. A Flask-based backend which servers the Tensorflow model and a frontend made in ReactJS.",
       languages: [
@@ -863,7 +863,7 @@ const projects = {
     },
     {
       name: "Dashboard Activity",
-      url: "https://github.com/Hrishi1999/Dashboard.activity",
+      url: " ",
       description:
         "Google Summer of Code project. A Dashboard activity for Sugar OS which tracks user activity so user can know where they use their most time and where they create most files.",
       languages: [
